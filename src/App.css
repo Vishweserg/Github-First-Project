@@ -1,0 +1,43 @@
+/* Reset some default margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f3f6;
+  color: #333;
+}
+
+/* App Container */
+.App {
+  text-align: center;
+}
+
+/* Global link styling */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Utility classes */
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.p-20 {
+  padding: 20px;
+}
