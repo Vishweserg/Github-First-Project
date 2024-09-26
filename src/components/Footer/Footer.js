@@ -8,40 +8,40 @@ const Footer = () => {
         <div className="footer__section">
           <h4>About</h4>
           <ul>
-            <li><a href="#">Contact Us</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Careers</a></li>
-            <li><a href="#">Flipkart Stories</a></li>
+            <li><a href="/contact-us">Contact Us</a></li>
+            <li><a href="/about-us">About Us</a></li>
+            <li><a href="/careers">Careers</a></li>
+            <li><a href="/flipkart-stories">Flipkart Stories</a></li>
           </ul>
         </div>
 
         <div className="footer__section">
           <h4>Help</h4>
           <ul>
-            <li><a href="#">Payments</a></li>
-            <li><a href="#">Shipping</a></li>
-            <li><a href="#">Cancellation & Returns</a></li>
-            <li><a href="#">FAQ</a></li>
+            <li><a href="/payments">Payments</a></li>
+            <li><a href="/shipping">Shipping</a></li>
+            <li><a href="/cancellation">Cancellation & Returns</a></li>
+            <li><a href="/FAQ">FAQ</a></li>
           </ul>
         </div>
 
         <div className="footer__section">
           <h4>Policy</h4>
           <ul>
-            <li><a href="#">Return Policy</a></li>
-            <li><a href="#">Terms of Use</a></li>
-            <li><a href="#">Security</a></li>
-            <li><a href="#">Privacy</a></li>
+            <li><a href="/return-policy">Return Policy</a></li>
+            <li><a href="/terms-of-use">Terms of Use</a></li>
+            <li><a href="/security">Security</a></li>
+            <li><a href="/privacy">Privacy</a></li>
           </ul>
         </div>
 
         <div className="footer__section">
           <h4>Social</h4>
           <ul>
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">YouTube</a></li>
-            <li><a href="#">Instagram</a></li>
+            <li><a href="/facebook">Facebook</a></li>
+            <li><a href="/twitter">Twitter</a></li>
+            <li><a href="/youtube">YouTube</a></li>
+            <li><a href="/instagram">Instagram</a></li>
           </ul>
         </div>
       </div>
